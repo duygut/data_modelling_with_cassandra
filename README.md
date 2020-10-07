@@ -22,17 +22,17 @@ Below python libraries have been used.
 
 The event_datafile_new.csv contains the following columns:
 
-artist
-firstName of user
-gender of user
-item number in session
-last name of user
-length of the song
-level (paid or free song)
-location of the user
-sessionId
-song title
-userId
+* artist
+* firstName of user
+* gender of user
+* item number in session
+* last name of user
+* length of the song
+* level (paid or free song)
+* location of the user
+* sessionId
+* song title
+* userId
 
 
 ### Project Steps
